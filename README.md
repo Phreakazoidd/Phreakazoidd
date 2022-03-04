@@ -1,4 +1,13 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://blush.design/api/download?shareUri=DXaqdlhxx7HQkBq2&c=Backdrop_0%7E9fe1c4_Hair_0%7E2c1b18_Skin_0%7E57331f_Top_0%7E845fe6&w=800&h=800&fm=png" width="100"/>
+
+</div>
+<div id="badges">
+  
+  
+</div>
+
+### Hey there 👋
 
 <!--
 **Phreakazoidd/Phreakazoidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
