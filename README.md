@@ -18,7 +18,7 @@
     <img src="https://komarev.com/ghpvc/?username=Phreakazoidd&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy-downsized.gif" width="600" height="300"/>
 </div>
 
 ### Hey there 👋
