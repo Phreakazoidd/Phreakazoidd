@@ -1,15 +1,13 @@
 <div id="header" align="center">
-  <img src="https://blush.design/api/download?shareUri=DXaqdlhxx7HQkBq2&c=Backdrop_0%7E9fe1c4_Hair_0%7E2c1b18_Skin_0%7E57331f_Top_0%7E845fe6&w=800&h=800&fm=png" width="100"/>
-
 <div>
   <div id="badges">
       <a href="https://www.linkedin.com/in/j-parish-968558211/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-      <a href="https://phreakazoidd.github.io/Totally-Ethical/">
+      <a href="https://psudojo.github.io/">
     <img src="https://img.shields.io/badge/Blog-green?style=for-the-badge&logo=website&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/phreakazoid_">
+  <a href="https://twitter.com/psudojo">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
