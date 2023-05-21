@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <div>
   <div id="badges">
-      <a href="https://www.linkedin.com/in/j-parish-968558211/">
+      <a href="https://www.linkedin.com/in/jovan-p-968558211/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
       <a href="https://psudojo.github.io/">
