@@ -21,10 +21,11 @@
 ---
 ### About Me 💻
 
-- Im from NYC 🗽
-- Im a hardware up-cycler ♻
-- Jon Threat of MOD and I are from the same neighborhood 🤝
-- I write code in VIM 🧠
+- Native New Yorker 🗽
+- Hardware up-cycler ♻
+- From the same neighborhood as Jon Threat from MOD 🤝
+- VIM Supremacy Advocate 🧠
+- Gym Rat 🏋️‍♂️
 
 ### Words I live by
 "The inner reality creates the outer form" - Phylicia Rashad
