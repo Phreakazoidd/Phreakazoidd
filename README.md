@@ -22,17 +22,16 @@
 ### About Me 💻
 
 - Native New Yorker 🗽
+- CLI enthusiast 🖥️
 - Hardware up-cycler ♻
-- From the same neighborhood as Jon Threat from MOD 🤝
 - VIM Supremacy Advocate 🧠
 - Gym Rat 🏋️‍♂️
 
-### Words I live by
-"The inner reality creates the outer form" - Phylicia Rashad
-<br>
-"Many dreams die while suffering" - David Goggins
-<br>
-"Treat your ability to control your thoughts with respect. It's all that protects your mind from false perceptions" - Marcus Aurelius
+### Currently Working on 
+- Strengthening my Perl, Bash, & Powershell
+- Learning in public
+- contributing to other repos
+- landing an entry level Blue Team Position 🔵
 
 ### Tech intrests
 | **Usage** | **Language**                    | **Purpose**                                           |
@@ -40,6 +39,21 @@
 | Frontend  | HTML5, CSS, PHP                           | building /finding vulnerabilities in web apps |
 | Scripting   | Python, Perl, Powershell, Bash       | malware traffic analysis, automation, SecOps |
 | DevOps    | Linux, Git, Docker, NixOs | System Administration, Immutability |
+
+
+### Words I live by
+
+"The inner reality creates the outer form" - Phylicia Rashad
+
+<br>
+
+"Many dreams die while suffering" - David Goggins
+
+<br>
+
+"Treat your ability to control your thoughts with respect. It's all that protects your mind from false perceptions" - Marcus Aurelius
+
+
 
 <!--
 **Phreakazoidd/Phreakazoidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
