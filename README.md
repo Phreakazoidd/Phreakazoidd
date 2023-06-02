@@ -40,7 +40,6 @@
 | Scripting   | Python, Perl, Powershell, Bash       | malware traffic analysis, automation, SecOps |
 | DevOps    | Linux, Git, Docker, NixOs | System Administration, Immutability |
 
-<div align="center">
   ### Words I live by
 
   "The inner reality creates the outer form" - Phylicia Rashad
@@ -56,7 +55,6 @@
 
 
 
-</div>
 
 
 <!--
