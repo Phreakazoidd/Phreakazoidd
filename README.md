@@ -40,19 +40,23 @@
 | Scripting   | Python, Perl, Powershell, Bash       | malware traffic analysis, automation, SecOps |
 | DevOps    | Linux, Git, Docker, NixOs | System Administration, Immutability |
 
+<div align="center">
+  ### Words I live by
 
-### Words I live by
+  "The inner reality creates the outer form" - Phylicia Rashad
 
-"The inner reality creates the outer form" - Phylicia Rashad
+  <br>
+  "Treat your ability to control your thoughts with respect. It's all that protects your mind from false perceptions" - Marcus Aurelius
 
-<br>
+  <br>
 
-"Many dreams die while suffering" - David Goggins
+  "Many dreams die while suffering" - David Goggins
 
-<br>
 
-"Treat your ability to control your thoughts with respect. It's all that protects your mind from false perceptions" - Marcus Aurelius
 
+
+
+</div>
 
 
 <!--
