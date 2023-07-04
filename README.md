@@ -37,8 +37,8 @@
 | **Usage** | **Language**                    | **Purpose**                                           |
 | --------- | ------------------------------- | ----------------------------------------------------- |
 | Frontend  | HTML5, CSS, PHP                           | building /finding vulnerabilities in web apps |
-| Scripting   | Python, Perl, Powershell, Bash       | malware traffic analysis, automation, SecOps |
-| DevOps    | Linux, Git, Docker, NixOs | System Administration, Immutability |
+| Shell Scripting   | Python, Perl, Powershell, Bash       | malware traffic analysis, automation, SecOps |
+| Random Interests   | Linux, Git, Docker, Nix  | System Administration, Containerization, Immutability |
 
   ### Words I live by
 
@@ -46,7 +46,7 @@
   <br>
   "Treat your ability to control your thoughts with respect. It's all that protects your mind from false perceptions" - Marcus Aurelius
   <br>
-  "Many dreams die while suffering" - David Goggins
+  "There's something to be said about living it" - David Goggins
 
 
 
