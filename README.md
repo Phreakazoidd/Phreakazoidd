@@ -36,9 +36,9 @@
 ### Tech intrests
 | **Usage** | **Language**                    | **Purpose**                                           |
 | --------- | ------------------------------- | ----------------------------------------------------- |
-| Frontend  | HTML5, CSS, PHP                           | building /finding vulnerabilities in web apps |
+| Frontend  | HTML5, CSS, Jekyll, Ruby                          | building static pages |
 | Shell Scripting   | Python, Perl, Powershell, Bash       | malware traffic analysis, automation, SecOps |
-| Random Interests   | Linux, Git, Docker, Nix  | System Administration, Containerization, Immutability |
+| Random Interests   | Linux, Git, Docker, Nix  | Server Hardening, Containerization, Immutability |
 
   ### Words I live by
 
