@@ -31,7 +31,7 @@
 - Strengthening my Perl, Bash, & Powershell
 - Learning in public
 - contributing to other repos
-- landing an entry level Blue Team position 🔵
+- ~~landing an entry level Blue Team position~~ 🔵
 
 ### Tech intrests
 | **Usage** | **Language**                    | **Purpose**                                           |
