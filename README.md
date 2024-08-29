@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="https://media.discordapp.net/attachments/1010612576348020827/1109963546688761928/psudojo_a_wall_of_monitors_in_a_disorganized_office_in_the_styl_f6d58236-9f9e-45fd-b689-d3303a2e5302.png?width=865&height=499"/>
+<img
+  src="https://imgur.com/lpbTm1Q"
+  />
 
  
 </div>
@@ -27,9 +29,9 @@
 ### Tech intrests
 | **Usage** | **Language**                    | **Purpose**                                           |
 | --------- | ------------------------------- | ----------------------------------------------------- |
-| Frontend  | HTML5, CSS, Jekyll, Ruby                          | building static pages |
+| Frontend  | HTML5, CSS,                          | building static pages |
 | Shell Scripting   | Python, Perl, Powershell, Bash       | malware traffic analysis, automation, SecOps |
-| Random Interests   | Linux, Git, Docker, Nix  | Server Hardening, Containerization, Immutability |
+| Random Interests   | Linux, Git, Docker, NixOS  | Server Hardening, Containerization, Immutability |
 
   ### Words I live by
 
