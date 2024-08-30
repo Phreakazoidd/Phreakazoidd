@@ -10,19 +10,22 @@
  
 
 ---
+
+
+<div align="center">
+ 
 ### About Me 💻
 
-- Native New Yorker 🗽
-- CLI enthusiast 🖥️
-- Hardware up-cycler ♻
-- VIM Supremacy Advocate 🧠
-- Gym Rat 🏋️‍♂️
+🗽 Native New Yorker 🗽
 
-### Currently Working on 
-- Strengthening my Perl, Bash, & Powershell
-- Learning in public
-- contributing to other repos
-- ~~landing an entry level Blue Team position~~ 🔵
+🖥️ CLI enthusiast 🖥️
+
+♻ Hardware up-cycler ♻
+
+🧠 VIM Supremacy Advocate 🧠
+
+🏋️‍♂️ Fitness Enthusiast 🏋️‍♂️
+
 
 ### Tech intrests
 | **Usage** | **Language**                    | **Purpose**                                           |
@@ -31,16 +34,21 @@
 | Shell Scripting   | Python, Perl, Powershell, Bash       | malware traffic analysis, automation, SecOps |
 | Random Interests   | Linux, Git, Docker, NixOS  | Server Hardening, Containerization, Immutability |
 
-  ### Words I live by
+
+
+
+
+
+ ### Words I live by
 
   "The inner reality creates the outer form" - Phylicia Rashad
   <br>
   "Treat your ability to control your thoughts with respect. It's all that protects your mind from false perceptions" - Marcus Aurelius
   <br>
   "There's something to be said about living it" - David Goggins
+png) 
 
-
-
+</div>
 
 
 
