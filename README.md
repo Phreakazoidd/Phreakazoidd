@@ -1,15 +1,13 @@
 <div align="center">
 
-<img
-  src="https://imgur.com/a/5vhQnnf"
-  />
 
- 
+![](https://i.imgur.com/Ft7tGuD.png) 
+
 </div>
 
 
 
-
+ 
 
 ---
 ### About Me 💻
@@ -61,6 +59,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+<img
+  src="https://imgur.com/a/5vhQnnf"
+  />
+
+ 
 
  <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/108800079758299252?domain=https%3A%2F%2Fioc.exchange&logo=mastodon&style=for-the-badge">
   
