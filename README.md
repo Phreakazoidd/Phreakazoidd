@@ -43,10 +43,10 @@
 
   "The inner reality creates the outer form" - Phylicia Rashad
   <br>
-  "Treat your ability to control your thoughts with respect. It's all that protects your mind from false perceptions" - Marcus Aurelius
+  "Treat your ability to control your thoughts with respect" - Marcus Aurelius
   <br>
   "There's something to be said about living it" - David Goggins
-png) 
+
 
 </div>
 
